@@ -1,4 +1,4 @@
-# Привіт! Я Любомир Фалфушинський 👋
+# Привіт! Я Любомир Фальфушинський 👋
 
 DevOps Engineer | Fullstack Developer Student
 
