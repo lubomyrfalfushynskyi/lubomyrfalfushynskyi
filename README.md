@@ -1,0 +1,24 @@
+# Привіт! Я Любомир Фалфушинський 👋
+
+DevOps Engineer | Fullstack Developer Student
+
+## 🇺🇦 Про мене
+
+DevOps інженер. Спеціалізуюся на адмініструванні Windows Server та Linux, розгортанні та підтримці серверної інфраструктури.
+
+Вивчаю Fullstack розробку в IT School GoIT (2024-2025).
+
+## 🛠 Технічні навички
+
+- Docker, Docker-compose, CI/CD
+- Windows Server, Linux, WSL
+- Cisco IOS, MikroTik
+- JavaScript, React, Node.js
+- HTML5, CSS3
+- Git, MongoDB
+
+## 💬 Мови
+
+- 🇺🇦 Українська — носій
+- 🇬🇧 English — Upper-Intermediate
+- 🇩🇪 Deutsch — Beginner
