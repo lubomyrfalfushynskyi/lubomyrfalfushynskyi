@@ -6,7 +6,7 @@ DevOps Engineer | Fullstack Developer Student
 
 DevOps інженер. Спеціалізуюся на адмініструванні Windows Server та Linux, розгортанні та підтримці серверної інфраструктури.
 
-Вивчаю Fullstack розробку в IT School GoIT (2025-2026).
+Вивчав Fullstack розробку в IT School GoIT (2025-2026).
 
 ## 🛠 Технічні навички
 
